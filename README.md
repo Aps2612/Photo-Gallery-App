@@ -2,9 +2,9 @@
 This is a simple photo gallery application built using Express.js and the Unsplash API. It allows users to view random images from Unsplash, click on an image to view it in a larger size, and navigate through the gallery using buttons to go to the next or previous image.
 
 <h2><b>Table of Contents<b></h2>
-<h2><b>Installation<b></h2>
-<h2><b>Usage<b></h2>
-<h2><b>Contributing<b></h2>
+<h5><b>Installation<b></h5>
+<h5><b>Usage<b></h5>
+<h5><b>Contributing<b></h5>
 
 
 <h2><b>Installation<b></h2>
